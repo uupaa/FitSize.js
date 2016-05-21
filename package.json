@@ -1,6 +1,6 @@
 {
   "name": "uupaa.fitsize.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Calculate to fit the screen size and keep aspect ratio.",
   "url": "https://github.com/uupaa/FitSize.js",
   "keywords": ["uupaa", "WebModule", "Unstable"],

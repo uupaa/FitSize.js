@@ -17,8 +17,8 @@ This module made of [WebModule](https://github.com/uupaa/WebModule).
 <script src="<module-dir>/lib/FitSize.js"></script>
 <script>
 
-FitSize.calc(500, 600, 350, 400)   // -> { r: 1.428, w: 500, h: 571 }
-FitSize.calc(1920, 1080, 320, 480) // -> { r: 2.25,  w: 720, h: 1080 }
+FitSize.calc(500, 600, 350, 400)   // -> { width: 500, height: 571,  rario: 1.428 }
+FitSize.calc(1920, 1080, 320, 480) // -> { width: 720, height: 1080, ratio: 2.25  }
 
 </script>
 ```
